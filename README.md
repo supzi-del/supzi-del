@@ -27,7 +27,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supzi-del&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" />
-  <img align="right" alt="Coding" width="200" src="">
+<!--   <img align="right" alt="Coding" width="200" src=""> -->
 </p>
 
 

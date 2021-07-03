@@ -24,7 +24,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=supzi-del&theme=dark)](https://git.io/streak-stats) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supzi-del&show_icons=true&locale=en&layout=compact&bg_color=151515&text_color=daf7dc" alt="supzi-del" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=supzi-del&show_icons=true&locale=en&layout=compact&bg_color=151515&text_color=daf7dc" alt="supzi-del" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supzi-del&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="supzi-del" /></p>
 

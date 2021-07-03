@@ -31,7 +31,7 @@
 </p>
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=supzi-del&show_icons=true&locale=en&layout=compact&bg_color=151515&text_color=daf7dc" alt="supzi-del"/></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=supzi-del&show_icons=true&locale=en&layout=compact&bg_color=151515&text_color=daf7dc" alt="supzi-del"/></p> -->
 
 
 

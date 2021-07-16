@@ -36,5 +36,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=supzi-del&theme=dark" alt="supzi-del" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=supzi-del&theme=dark" alt="supzi-del" /></p><br>
+
+### Blog posts
+* [How to have an awesome GitHub profile?](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)
+* ['npm' is not recognized as internal or external command : Solution](https://dev.to/supritha/npm-is-not-recognized-as-internal-or-external-command-solution-o1n)
+* [28 Open Source Programs to take part in!](https://dev.to/supritha/open-source-programs-to-take-part-in-m69)
 

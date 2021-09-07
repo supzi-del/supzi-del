@@ -9,6 +9,8 @@
 
 - 📫 Contact me: **supri161@gmail.com**
 
+- 👨‍💻 Check out my featured blog : [How to have an Awesome GitHub Profile ?](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/suprithaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="suprithaa" height="30" width="40" /></a>

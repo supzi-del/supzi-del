@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋</h1>
 <h3 align="center">💻</h3>
-
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=supzi-del&theme=dark" alt="supzi-del" /></p>
 
 
 <!--<h3 align="left">Connect with me:</h3>
@@ -30,6 +30,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supzi-del&theme=dark" alt="supzi-del" /></p>
+
 
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋</h1>
-<h3 align="center">💻</h3>
+<h1 align="center">Hey there!👋</h1>
+<h3 align="center">Here's my GitHub stats💻</h3>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=supzi-del&theme=dark" alt="supzi-del" /></p>
 
 
